@@ -1,0 +1,4 @@
+= Vert.x Logic Service
+
+This service provides an asynchronous interface around logic
+programming.
