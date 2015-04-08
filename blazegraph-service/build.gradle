@@ -50,7 +50,8 @@ dependencies {
 	compile 'io.vertx:vertx-docgen:' + vertxVersion
 	compile 'io.vertx:vertx-service-proxy:' + vertxVersion
 	compile 'io.vertx:vertx-service-factory:' + vertxVersion
-	compile "com.bigdata:bigdata:1.5.1"	
+	compile 'com.bigdata:bigdata:1.5.1'
+	compile 'io.vertx:vertx-unit:' + vertxVersion
 	testCompile 'junit:junit:4.12'
 }
 
